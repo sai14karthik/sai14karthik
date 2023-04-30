@@ -1,10 +1,10 @@
-<img align="centre" alt="Coding" width="1100" height="300" src="https://i.pinimg.com/originals/93/97/d5/9397d5669480f918fe73cdb0e74ff5b8.jpg">
+
+<img width="1000" height="300" alt="Screenshot 2023-04-30 at 10 32 04 AM" src="https://user-images.githubusercontent.com/110590614/235336492-6dc02fbb-4497-4aed-aa17-3301c3acfb19.png">
 
 <h1 align="center">Hi there 👋, I'm Sai Karthik</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
-<img align="centre" alt="Coding" width="500" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai14karthik&label=Profile%20views&color=0e75b6&style=flat" alt="sai14karthik" /> </p>
+<h3 align="center">A passionate Computer Science student from India  🇮🇳</h3>
+<br>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai14karthik" alt="sai14karthik" /></a> </p>
 
@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Java Project for Academic's purpose**
 
-- 🌱 I’m currently learning **TensorFlow,Seaborn**
+- 🌱 I’m currently learning **Machine Learning Libraries**
 
-- 💬 Ask me about **Python, Data Analysis, Machine Learning**
+- 💬 Ask me about **Python, EDA**
 
 - 📫 How to reach me **sai14karthik@gmail.com**
 
