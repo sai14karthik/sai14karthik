@@ -2,7 +2,7 @@
 <img width="1000" height="300" alt="Screenshot 2023-04-30 at 10 32 04 AM" src="https://user-images.githubusercontent.com/110590614/235336492-6dc02fbb-4497-4aed-aa17-3301c3acfb19.png">
 
 <h1 align="center">Hi there 👋, I'm Sai Karthik</h1>
-<h3 align="center">A passionate Computer Science student from India  🇮🇳</h3>
+<h3 align="center">A Computer Science student from India  🇮🇳</h3>
 <br>
 <br>
 
