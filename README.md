@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/saikart06428762" target="blank"><img src="https://img.shields.io/twitter/follow/saikart06428762?logo=twitter&style=for-the-badge" alt="saikart06428762" /></a> </p>
 
-- 🔭 I’m currently working on **Java Project for Academic's purpose**
+- 🔭 I’m currently working on **EDS Project for Internship purpose**
 
 - 🌱 I’m currently learning **Machine Learning Libraries**
 
